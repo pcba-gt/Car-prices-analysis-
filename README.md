@@ -45,6 +45,8 @@ I compared five models using 5-fold cross-validation and grid search:
 4. **Title problems and poor condition sharply reduce value.** Salvage, rebuilt, missing, or parts-only titles and fair or salvage condition lead to much lower prices.
 5. **Paint color barely matters.**
 
+![Which features matter most for price](images/features_importance.png)
+
 ## Recommendations for the Dealership
 
 - **Prioritize newer, lower-mileage vehicles.** They are the most reliable inventory to buy and price.
