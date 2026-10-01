@@ -75,7 +75,7 @@ I compared five models using 5-fold cross-validation and grid search:
 ├── README.md                     Summary of findings
 ├── prompt_II_solution.ipynb      Full analysis notebook
 ├── data/
-│   └── vehicles.csv     Used car listings dataset
+│   └── vehicles.csv.zip     Used car listings dataset
 └── images/              Saved plots
 ```
 
